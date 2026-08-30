@@ -11,3 +11,4 @@
 Rice [repo](https://www.github.com/SkyNixty/SkyNixtys-Rices)<br>
 TikTok: [@skynixty](https://www.tiktok.com/@skynixty)<br>
 Discord: @skynixty<br>
+Email: [skynixty@tuta.io](mailto:skynixty@tuta.io)<br>
