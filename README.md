@@ -8,6 +8,6 @@
 * Coding is my past time (if you call what I do coding)
 
 ### Links
-Rice [repo](https://www.github.com/SkyNixty/SkyNixtys-Rices)
-TikTok: [@skynixty](https://www.tiktok.com/@skynixty)
-Discord: @skynixty
+Rice [repo](https://www.github.com/SkyNixty/SkyNixtys-Rices)<br>
+TikTok: [@skynixty](https://www.tiktok.com/@skynixty)<br>
+Discord: @skynixty<br>
