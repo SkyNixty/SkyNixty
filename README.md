@@ -1,14 +1,24 @@
-# Hi, Nixters and the non fans
-
-### About me
-* I'm from Latvia
-* Started my linux journey in March 2025
-* Currently use NixOS (will stay on this)
-* Studying in high-school, my major is agricultural mechanics
-* Coding is my past time (if you call what I do coding)
-
-### Links
-Rice [repo](https://www.github.com/SkyNixty/SkyNixtys-Rices)<br>
-TikTok: [@skynixty](https://www.tiktok.com/@skynixty)<br>
-Discord: @skynixty<br>
-Email: [skynixty@tuta.io](mailto:skynixty@tuta.io)<br>
+──────────────────Set-up───────────────<br>
+|                                     |<br>
+|   Pc          ThinkPad T14 Gen 1    |<br>
+|   OS          NixOS 26.05           |<br>
+|   DE          KDE Plasma            |<br>
+|   Terminal    ghostty               |<br>
+|                                     |<br>
+───────────────────────────────────────<br>
+ <br>
+──────────────────Info─────────────────<br>
+|                                     |<br>
+|   Country     Latvia                |<br>
+|   Linux       Started on may 2026   |<br>
+|   Studying    High-school           |<br>
+|                                     |<br>
+───────────────────────────────────────<br>
+ <br>
+────────────────Contact────────────────<br>
+|                                     |<br>
+|   Email        skynixty@tuta.io     |<br>
+|   TikTok       [@skynixty](https://www.tiktok.com/@skynixty)          |<br>
+|   Discord      skynixty             |<br>
+|                                     |<br>
+───────────────────────────────────────<br>
