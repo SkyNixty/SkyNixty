@@ -8,8 +8,10 @@ Terminal ─ ghostty<br>
 ────────────────Info─────────────────<br>
 <br>
 Country ─ Latvia<br>
+Languages ─ English, Russian, Latvian<br>
+Code ─ C, C++, Nix, json<br>
 Linux ─ Started on march 2026<br>
-Nixpkgs ─ tty-clock maintainer
+Nixpkgs ─ tty-clock maintainer<br>
  <br>
 ──────────────Contact────────────────<br>
 <br>
