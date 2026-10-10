@@ -19,4 +19,4 @@ Email ─ skynixty@tuta.io<br>
 TikTok ─ [@skynixty](https://www.tiktok.com/@skynixty)<br>
 Discord ─ skynixty<br>
 <br>
-─────────────────────────────────────<br>
+────────────────────────────────────<br>
